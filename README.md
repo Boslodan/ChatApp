@@ -66,6 +66,7 @@ Home Page: Access login and sign-up forms.
 Chat Page: Create and manage conversations.
 Admin Dashboard: Available only to administrators to review users.
 
+
 **Data Models**
 Message: Stores messages and links them to users and chats.
 Chat: Represents conversations between users.
